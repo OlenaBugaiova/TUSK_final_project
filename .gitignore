@@ -2,3 +2,5 @@
 /.ipynb_checkpoints
 */.ipynb_checkpoints
 */*/.ipynb_checkpoints
+/presentation icons
+.DS_Store
